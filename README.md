@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Gabriel Lima 👾
 Estudante de Análise e Desenvolvimento de
-Sistemas, 21 anos, com experiência como
+Sistemas, 22 anos, com experiência como
 estagiário de TI e desenvolvedor web.
 ##
 
